@@ -1,5 +1,5 @@
 #Hello World
-##Welcome to my first repository.
+##Welcome to my first repository
 Here I am going to create my first project on github.
 ___
 
